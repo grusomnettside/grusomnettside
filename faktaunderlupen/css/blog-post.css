@@ -11,3 +11,10 @@ body {
 footer {
     margin: 50px 0;
 }
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 130%;
+}
+.lead {
+    font-size: 160%;
+}
